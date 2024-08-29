@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Jongyoon&section=header&reversal=false&fontSize=50&fontAlign=50&fontAlignY=41)
 
 ### About me
-- I'm CS major student in KAIST.
-- I'm interested in SW Development, especially in Front-end technology.
-- I like to participate in immersive events and have new experiences, such as Hackathon and MadCamp.
+- I studied `Computer Science` and `Industrial Design` in `KAIST`.
+- I'm interested in SW Development, especially in `Front-end` technology.
+- I like to participate in `immersive events` and have new experiences, such as Hackathon and MadCamp.
   
 <a href="https://www.linkedin.com/in/jongyoon-choi-7126b0246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
